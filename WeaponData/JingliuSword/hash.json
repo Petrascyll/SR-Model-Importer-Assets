@@ -1,0 +1,49 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "1794f9bb",
+        "position_vb": "610ffa54",
+        "blend_vb": "92d776cc",
+        "texcoord_vb": "4ab0fbf0",
+        "ib": "84245330",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b71e3abe"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "12fde9bd"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Enhanced",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "7749a5af",
+        "position_vb": "72ba78a8",
+        "blend_vb": "7823e7a5",
+        "texcoord_vb": "8d39f4c1",
+        "ib": "ba0e503b",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    }
+]
